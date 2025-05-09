@@ -1,0 +1,318 @@
+{
+  "data": {
+    "dataset": "2-083-220",
+    "POI_id": "608819",
+    "travelType": "음식점",
+    "place": "유정명물닭갈비막국수",
+    "area": "강원"
+  },
+  "imageInfo": [
+    {
+      "image_id": 0,
+      "filename": "608819_2_gw_5_유정명물닭갈비막국수_1_001.png",
+      "mapx": 37.8165748977937,
+      "mapy": 127.714735537808,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "유정명물닭갈비막국수(신동면)",
+        "간판, 화분, 라바콘"
+      ]
+    },
+    {
+      "image_id": 1,
+      "filename": "608819_2_gw_5_유정명물닭갈비막국수_1_002.png",
+      "mapx": 37.8165748977937,
+      "mapy": 127.714735537808,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "유정명물닭갈비막국수(신동면)",
+        "간판, 파라솔, 화분"
+      ]
+    },
+    {
+      "image_id": 2,
+      "filename": "608819_2_gw_5_유정명물닭갈비막국수_1_003.png",
+      "mapx": 37.8165748977937,
+      "mapy": 127.714735537808,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "유정명물닭갈비막국수(신동면)",
+        "테이블, 방석, 물병, 종이컵, 화장지"
+      ]
+    },
+    {
+      "image_id": 3,
+      "filename": "608819_2_gw_5_유정명물닭갈비막국수_1_004.png",
+      "mapx": 37.8165748977937,
+      "mapy": 127.714735537808,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "유정명물닭갈비막국수(신동면)",
+        "메뉴판"
+      ]
+    },
+    {
+      "image_id": 4,
+      "filename": "608819_2_gw_5_유정명물닭갈비막국수_1_005.png",
+      "mapx": 37.8165748977937,
+      "mapy": 127.714735537808,
+      "width": 3840,
+      "height": 2160,
+      "caption_info": [
+        "유정명물닭갈비막국수(신동면)",
+        "닭갈비"
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 0,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "영업시간은 몇시부터 몇시까지로 기재되어 있나요?",
+          "question_wordNum": 5,
+          "answer": "10:00 - 21:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "유정명물닭갈비막국수,영업시간,10:00 - 21:00"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "유정명물닭갈비막국수,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "강원 춘천시 신동면 김유정로 1402",
+          "answer_wordNum": 5,
+          "fact": [
+            "유정명물닭갈비막국수,주소,강원 춘천시 신동면 김유정로 1402"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "033-262-5669",
+          "answer_wordNum": 1,
+          "fact": [
+            "유정명물닭갈비막국수,연락처,033-262-5669"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 1,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "10:00 - 21:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "유정명물닭갈비막국수,영업시간,10:00 - 21:00"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "유정명물닭갈비막국수,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "탐색",
+          "question": "주차시설이 있나요?",
+          "question_wordNum": 2,
+          "answer": "있음",
+          "answer_wordNum": 1,
+          "fact": [
+            "유정명물닭갈비막국수,주차시설,있음"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 대표적인 메뉴를 알 수 있나요?",
+          "question_wordNum": 7,
+          "answer": "숯불닭갈비, 철판닭갈비",
+          "answer_wordNum": 2,
+          "fact": [
+            "유정명물닭갈비막국수,메뉴,숯불닭갈비, 철판닭갈비"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 2,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "영업시간은 몇시부터 몇시까지로 기재되어 있나요?",
+          "question_wordNum": 5,
+          "answer": "10:00 - 21:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "유정명물닭갈비막국수,영업시간,10:00 - 21:00"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "이 곳의 대표적인 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "숯불닭갈비, 철판닭갈비",
+          "answer_wordNum": 2,
+          "fact": [
+            "유정명물닭갈비막국수,메뉴,숯불닭갈비, 철판닭갈비"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "김유정역 1번 출구",
+          "answer_wordNum": 3,
+          "fact": [
+            "유정명물닭갈비막국수,인접,김유정역 1번 출구"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주소를 알 수 있나요?",
+          "question_wordNum": 6,
+          "answer": "강원 춘천시 신동면 김유정로 1402",
+          "answer_wordNum": 5,
+          "fact": [
+            "유정명물닭갈비막국수,주소,강원 춘천시 신동면 김유정로 1402"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 3,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "관계",
+          "question": "이 곳에 인접한 시설이 있나요?",
+          "question_wordNum": 5,
+          "answer": "김유정역 1번 출구",
+          "answer_wordNum": 3,
+          "fact": [
+            "유정명물닭갈비막국수,인접,김유정역 1번 출구"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "휴무일을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "유정명물닭갈비막국수,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "영업시간을 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "10:00 - 21:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "유정명물닭갈비막국수,영업시간,10:00 - 21:00"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "033-262-5669",
+          "answer_wordNum": 1,
+          "fact": [
+            "유정명물닭갈비막국수,연락처,033-262-5669"
+          ]
+        }
+      ]
+    },
+    {
+      "image_id": 4,
+      "question": [
+        {
+          "question_id": 0,
+          "question_type": "정보",
+          "question": "휴무일은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "없음",
+          "answer_wordNum": 1,
+          "fact": [
+            "유정명물닭갈비막국수,휴무일,없음"
+          ]
+        },
+        {
+          "question_id": 1,
+          "question_type": "정보",
+          "question": "영업시간은 어떻게 되나요?",
+          "question_wordNum": 3,
+          "answer": "10:00 - 21:00",
+          "answer_wordNum": 3,
+          "fact": [
+            "유정명물닭갈비막국수,영업시간,10:00 - 21:00"
+          ]
+        },
+        {
+          "question_id": 2,
+          "question_type": "정보",
+          "question": "연락처를 알 수 있나요?",
+          "question_wordNum": 4,
+          "answer": "033-262-5669",
+          "answer_wordNum": 1,
+          "fact": [
+            "유정명물닭갈비막국수,연락처,033-262-5669"
+          ]
+        },
+        {
+          "question_id": 3,
+          "question_type": "정보",
+          "question": "이 곳의 주요 메뉴는 무엇이 있나요?",
+          "question_wordNum": 6,
+          "answer": "숯불닭갈비, 철판닭갈비",
+          "answer_wordNum": 2,
+          "fact": [
+            "유정명물닭갈비막국수,메뉴,숯불닭갈비, 철판닭갈비"
+          ]
+        }
+      ]
+    }
+  ]
+}
