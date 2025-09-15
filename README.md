@@ -42,7 +42,7 @@
 ![image](https://github.com/user-attachments/assets/b7a8338f-286a-4a8c-8f34-a3941f5bb364)
 ![image](https://github.com/user-attachments/assets/62179163-5121-46da-86cc-1613c8100d37)
 
-### 결과 데이터
+### 사용 데이터
 
 <div><a href="https://huggingface.co/datasets/bin778/llm_midterm">Hugging Face Datasets</a></div>
 <div><a href="https://huggingface.co/bin778/llama_llm_midterm/tree/main">LLaMa 모델 데이터셋 학습 결과</a></div>
