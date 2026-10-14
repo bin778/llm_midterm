@@ -5,7 +5,7 @@ jsonschema==4.23.0
 python-dotenv==1.2.2
 pandas==2.2.0
 numpy==1.26.4
-datasets==2.21.0
+datasets==5.0.1
 uvicorn==0.34.2
 fastapi==0.115.12
 pydantic==2.11.4
